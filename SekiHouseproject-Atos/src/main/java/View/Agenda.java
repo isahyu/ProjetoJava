@@ -141,7 +141,7 @@ public class Agenda extends javax.swing.JFrame {
 
         jLabelfundo.setBackground(new java.awt.Color(204, 204, 204));
         jLabelfundo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/View/images/WhatsApp Image 2022-07-05 at 17.19.21.jpeg"))); // NOI18N
-        getContentPane().add(jLabelfundo, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, -100, 1480, 940));
+        getContentPane().add(jLabelfundo, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -120, 1480, 940));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

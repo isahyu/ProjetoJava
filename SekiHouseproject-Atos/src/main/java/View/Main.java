@@ -29,7 +29,7 @@ public class Main {
        Cliente cliente = new Cliente("rua teste", "86600278", 1, "Sekitani Alice");
        System.out.println(cliente.getNome());
        
-       Usuario usuario = new Usuario(1, "Lucas", "211806");
+       Usuario usuario = new Usuario(1, "Lucas", "senha");
        System.out.println(usuario.getNome());
        
        
